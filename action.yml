@@ -1,0 +1,7 @@
+name: Alpaca
+description: Use the Alpaca CLI
+author: Jonathan Clem <jonathan@jclem.net>
+inputs:
+runs:
+  using: docker
+  image: Dockerfile
